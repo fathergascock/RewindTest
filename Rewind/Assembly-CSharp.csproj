@@ -63,25 +63,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\PointInTime.cs" />
+    <Compile Include="Assets\Restart.cs" />
     <Compile Include="Assets\ThirdPersonCamera.cs" />
     <Compile Include="Assets\TimeBody.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/VascoRocha(1161216)/Documents/Rewind/Rewind/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/VascoRocha(1161216)/Documents/RewindTest/Rewind/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/VascoRocha(1161216)/Documents/Rewind/Rewind/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/VascoRocha(1161216)/Documents/RewindTest/Rewind/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/VascoRocha(1161216)/Documents/Rewind/Rewind/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/VascoRocha(1161216)/Documents/RewindTest/Rewind/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/VascoRocha(1161216)/Documents/Rewind/Rewind/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/VascoRocha(1161216)/Documents/RewindTest/Rewind/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/VascoRocha(1161216)/Documents/Rewind/Rewind/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/VascoRocha(1161216)/Documents/RewindTest/Rewind/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/VascoRocha(1161216)/Documents/Rewind/Rewind/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/VascoRocha(1161216)/Documents/RewindTest/Rewind/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.0a9/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -267,13 +268,13 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.0a9/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/VascoRocha(1161216)/Documents/Rewind/Rewind/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/VascoRocha(1161216)/Documents/RewindTest/Rewind/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/VascoRocha(1161216)/Documents/Rewind/Rewind/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/VascoRocha(1161216)/Documents/RewindTest/Rewind/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/VascoRocha(1161216)/Documents/Rewind/Rewind/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/VascoRocha(1161216)/Documents/RewindTest/Rewind/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.0a9/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
